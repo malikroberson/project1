@@ -3,6 +3,7 @@ jQuery(function($) {
   $('html').addClass('hasjs');
 });
 
-function Click {
-	alert("Sign-up Successful");
+function Click() {
+   alert("Submitted!");
+   return true;
 }
