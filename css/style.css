@@ -23,6 +23,10 @@ fieldset{
 body{
   background-color: #4a58d9;
 }
+
+legend{
+	font-weight: bold;
+}
 	
 .submit{
   font-family: Tahoma, sans-serif;
