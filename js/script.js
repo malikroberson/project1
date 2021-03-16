@@ -4,6 +4,6 @@ jQuery(function($) {
 });
 
 function Click() {
-   alert("Submitted!");
-   return true;
+  alert("Submitted!");
+  return true;
 }
