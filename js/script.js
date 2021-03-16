@@ -5,5 +5,5 @@ jQuery(function($) {
 
 function Click() {
   alert("Submitted!");
-  return false;
+  return true;
 }
