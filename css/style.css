@@ -35,3 +35,10 @@ h2{
     color: #401126;
 	text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
