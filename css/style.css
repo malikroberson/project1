@@ -21,19 +21,19 @@ fieldset{
 }
 
 body{
-	background-color: #4a58d9;
+  background-color: #4a58d9;
 }
 	
 #submit{
-font-family: Tahoma, sans-serif;
-font-size: 1em;
-text-align: center;	
-margin: auto;
+  font-family: Tahoma, sans-serif;
+  font-size: 1em;
+  text-align: center;	
+  margin: auto;
 }
 
 h2{ 
-    color: #401126;
-	font-weight: bold;
-	font-size: 24px;
-	text-align: center;
+  color: #401126;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
 }
