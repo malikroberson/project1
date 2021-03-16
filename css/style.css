@@ -1,6 +1,6 @@
 fieldset
 {
-  background-color:#CCC;
+  background-color:#767785;
   max-width:500px;
   padding:16px;	
 }
@@ -10,3 +10,7 @@ fieldset
   margin-bottom:0px;
   margin-left:16px;
 }
+
+body {
+	background-color: #4a58d9;
+	}
