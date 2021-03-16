@@ -1,6 +1,7 @@
 fieldset
 {
-  font-family: Helvetica, sans-serif;	
+  font-family: Helvetica, sans-serif;
+  font-size:18px;  
   background-color:#767785;
   border: 1px solid rgb(255,232,57);
   border-radius: 5px;
