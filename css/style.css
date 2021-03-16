@@ -14,7 +14,13 @@ fieldset{
 }
 
 img[src="pics/chicago.jpg"]{
-	max-width: 25%;
+	max-width: 20%;
+	float: left;
+}
+
+img[src="pics/chicago1.jpg"]{
+	max-width: 20%;
+	float: right;
 }
 
 body{
