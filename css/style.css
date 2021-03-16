@@ -15,6 +15,11 @@ fieldset
   margin-left:16px;
 }
 
+.pic
+{
+  max-width: 200px;
+}
+
 body {
 	background-color: #4a58d9;
 	}
@@ -27,5 +32,5 @@ margin: auto;
 }
 
 h2 { 
-    color: #9c114f;
+    color: #401126;
 	text-align: center;
