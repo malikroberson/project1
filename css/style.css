@@ -13,14 +13,11 @@ fieldset{
   margin-left:16px;
 }
 
-img[src="pics/chicago.jpg"]{
-	max-width: 20%;
-	float: left;
-}
-
-img[src="pics/chicago1.jpg"]{
-	max-width: 20%;
-	float: right;
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
 }
 
 body{
