@@ -1,6 +1,6 @@
 fieldset{
   font-family: Helvetica, sans-serif;
-  font-size:24px;  
+  font-size:18px;  
   font-weight: bold;
   background-color:#767785;
   border: 2px solid rgb(255,232,57);
@@ -36,10 +36,3 @@ h2{
     color: #401126;
 	text-align: center;
 }
-
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-
