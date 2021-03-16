@@ -1,7 +1,6 @@
 fieldset{
   font-family: Helvetica, sans-serif;
   font-size:18px;  
-  font-weight: bold;
   background-color:#767785;
   border: 2px solid rgb(255,232,57);
   border-radius: 5px;
@@ -34,5 +33,7 @@ margin: auto;
 
 h2{ 
     color: #401126;
+	font-weight: bold;
+	font-size: 24px;
 	text-align: center;
 }
