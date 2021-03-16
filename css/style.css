@@ -1,5 +1,4 @@
-fieldset
-{
+fieldset{
   font-family: Helvetica, sans-serif;
   font-size:18px;  
   background-color:#767785;
@@ -9,28 +8,27 @@ fieldset
   margin:auto;
 }
 
-.form
-{
+.form{
   margin-bottom:0px;
   margin-left:16px;
 }
 
-.pic
-{
-  max-width: 20px;
+img[src="pics/chicago.jpg"]{
+	max-width: 25%;
 }
 
-body {
+body{
 	background-color: #4a58d9;
-	}
+}
 	
-#submit {
+#submit{
 font-family: Tahoma, sans-serif;
 font-size: 1em;
 text-align: center;	
 margin: auto;
 }
 
-h2 { 
+h2{ 
     color: #401126;
 	text-align: center;
+}
