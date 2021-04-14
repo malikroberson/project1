@@ -7,3 +7,5 @@ function Click() {
   alert("Submitted!");
   return true;
 }
+
+<script async>

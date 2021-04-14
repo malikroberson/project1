@@ -21,8 +21,23 @@
   width: 20%;
 }
 
+@media screen and (max-width: 992px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+@media only screen and (orientation: landscape) {
+  body {
+    background-color: gray;
+
 body{
   background-color: #4a58d9;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
 	
 .submit{
