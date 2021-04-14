@@ -29,7 +29,8 @@
 
 @media only screen and (orientation: landscape) {
   body {
-    background-color: gray;
+  background-color: gray;}
+}
 
 body{
   background-color: #4a58d9;
